@@ -1,1058 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="589.19" height="451.5" version="1.1" viewBox="-0.5 -0.5 589.1897 451.50003" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g>
-  <g transform="matrix(.73155 0 0 .75068 211.15 11.21)">
-   <g fill="#ffffff" stroke="#ffffff" stroke-width=".70391">
-    <image x="128.7" y="260.3" width="10.442" height="13.24" xlink:href="file:///C:/Users/eglerean/Downloads/Server_Desktop.svg"/>
-    <image x="139.16" y="273.55" width="10.442" height="13.24" xlink:href="file:///C:/Users/eglerean/Downloads/Server_Desktop.svg"/>
-    <image x="149.6" y="260.3" width="10.442" height="13.24" xlink:href="file:///C:/Users/eglerean/Downloads/Server_Desktop.svg"/>
-    <image x="160.05" y="273.55" width="10.442" height="13.24" xlink:href="file:///C:/Users/eglerean/Downloads/Server_Desktop.svg"/>
-   </g>
-   <rect x="-213.05" y="91.426" width="566.85" height="431.4" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="2.0646"/>
-  </g>
-  <ellipse cx="293.98" cy="223.25" rx="284.37" ry="204.51" fill="none" stroke="#b3b3b3" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2.0538"/>
- </g>
- <g>
-  <g transform="matrix(.73155 0 0 .75068 -39.096 33.121)">
-   <ellipse cx="311.93" cy="235.7" rx="175.4" ry="116.51" fill="#e9e9e9" pointer-events="all"/>
-   <circle cx="390.57" cy="234.98" r="83.96" fill="#fff" pointer-events="all"/>
-   <g transform="translate(-22.043 -3.883)">
-    <rect x="191.44" y="242.69" width="78.914" height="68.017" rx="9.9368" ry="9.9368" fill="#fff"/>
-   </g>
-   <g transform="translate(9.8592 -23.757)">
-    <circle cx="206.35" cy="204.96" r="34.5" fill="#fff" pointer-events="all"/>
-   </g>
-  </g>
-  <text transform="scale(.98718 1.013)" x="146.30992" y="144.30946" fill="#000000" font-family="sans-serif" font-size="15.809px" letter-spacing="0px" stroke-width=".74105" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="146.30992" y="144.30946" fill="#999999" font-family="Helvetica" font-size="12.845px" font-weight="bold" stroke-width=".74105">Uio Network</tspan></text>
-  <ellipse cx="223.88" cy="361.76" rx="68.867" ry="45.148" fill="#ccc" stroke-width=".63023"/>
-  <text transform="scale(.98718 1.013)" x="205.1656" y="328.69928" fill="#4d4d4d" font-family="sans-serif" font-size="15.809px" letter-spacing="0px" stroke-width=".74105" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="205.1656" y="328.69928" fill="#4d4d4d" font-family="Helvetica" font-size="12.845px" font-weight="bold" stroke-width=".74105">NREC</tspan></text>
-  <ellipse cx="381.51" cy="342.52" rx="68.867" ry="45.148" fill="#ccc" stroke-width=".63023"/>
-  <text transform="scale(.98718 1.013)" x="345.62851" y="315.60056" fill="#4d4d4d" font-family="sans-serif" font-size="15.809px" letter-spacing="0px" stroke-width=".74105" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="345.62851" y="315.60056" fill="#4d4d4d" font-family="Helvetica" font-size="12.845px" font-weight="bold" stroke-width=".74105">Google Cloud</tspan></text>
-  <ellipse cx="434.33" cy="178.73" rx="103.58" ry="100.9" fill="#ccc" stroke-width="1.1555"/>
- </g>
- <g>
-  <path d="m493.07 143.3c10.693 0 9.6148-0.62396 9.6148 28.657 0 20.594 1.7666 18.069 18.047 18.046" fill="none" pointer-events="stroke" stroke="#426ebb" stroke-miterlimit="10" stroke-width=".60558"/>
-  <g transform="matrix(.73155 0 0 .75068 -149.32 39.89)">
-   <path d="m414.35 264.95v-20.467c0-2.8291 9.5746-5.1248 21.379-5.1248s21.379 2.2956 21.379 5.1248v20.467c0 2.8292-9.5746 5.1248-21.379 5.1248s-21.379-2.2956-21.379-5.1248z" fill="#bdbdbd" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <path d="m414.35 244.48c0 2.8292 9.5746 5.1086 21.379 5.1086s21.379-2.2795 21.379-5.1086" fill="none" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <g transform="translate(-17.236 18.851)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:453px;padding-top:239px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b font-size="7px">/home/
-           <xhtml:br/>
-          </xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="453" y="243" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">/home/</text>
-    </switch>
-   </g>
-  </g>
-  <g fill="none" pointer-events="stroke" stroke-miterlimit="10">
-   <path d="m142.43 234.54 11.299 0.13763" stroke="#426ebb" stroke-width=".58758"/>
-   <path d="m241.45 178.7c26.293 0 22.409-1.3972 22.409 15.096" stroke="#a75656" stroke-width=".44965"/>
-   <path d="m142.42 241.9c14.539-0.39259 13.999-0.22536 13.616 15.871" stroke="#a75656" stroke-width=".96337"/>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 -51.754 39.497)">
-   <path d="m274.1 327.84v-30.816c0-4.2669 11.58-7.7111 25.88-7.7111 14.29 0 25.87 3.4442 25.87 7.7111v30.816c0 4.253-11.58 7.6972-25.87 7.6972-14.3 0-25.88-3.4442-25.88-7.6972z" fill="#bdbdbd" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <path d="m274.29 295.95c0 3.05 11.395 4.4106 25.695 4.4106 14.29 0 25.685-1.5455 25.685-4.5955" fill="none" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <g transform="translate(-26.649 17.805)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:326px;padding-top:304px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>Storage</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="326" y="308" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Storage</text>
-    </switch>
-   </g>
-   <g transform="translate(-26.649 12.575)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:327px;padding-top:296px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>Aalto ITs</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="327" y="300" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">ASTRA</text>
-    </switch>
-   </g>
-  </g>
-  <g transform="matrix(.5974 0 0 .48843 55.64 75.902)">
-   <path d="m337.03 289.97v-39.192c0-5.4084 13.43-9.7979 30-9.7979s30 4.3895 30 9.7979v39.192c0 5.4084-13.43 9.7979-30 9.7979s-30-4.3895-30-9.7979z" fill="#bdbdbd" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <path d="m337.03 250.78c0 5.4084 13.43 9.7979 30 9.7979s30-4.3895 30-9.7979" fill="none" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <g transform="translate(-30.31 -2.069)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:401px;padding-top:277px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>/scratch/
-           <xhtml:br/>
-/work/
-           <xhtml:br/>
-          </xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="401" y="280" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">/fr-home/...</text>
-    </switch>
-   </g>
-  </g>
-  <path d="m240.76 236.97c26.29 0 22.407 1.4256 22.407-15.402" fill="none" pointer-events="stroke" stroke="#a75656" stroke-miterlimit="10" stroke-width=".45417"/>
-  <g transform="matrix(.50598 0 0 .50515 201.98 206.79)">
-   <path d="m414.35 264.95v-20.467c0-2.8291 9.5746-5.1248 21.379-5.1248s21.379 2.2956 21.379 5.1248v20.467c0 2.8292-9.5746 5.1248-21.379 5.1248s-21.379-2.2956-21.379-5.1248z" fill="#bdbdbd" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <path d="m414.35 244.48c0 2.8292 9.5746 5.1086 21.379 5.1086s21.379-2.2795 21.379-5.1086" fill="none" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <g transform="translate(-17.236 18.851)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:453px;padding-top:239px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b font-size="7px">/home/
-           <xhtml:br/>
-          </xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="453" y="243" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle"/>
-    </switch>
-   </g>
-  </g>
-  <g transform="matrix(.50598 0 0 .50515 203.89 228.77)">
-   <path d="m414.35 264.95v-20.467c0-2.8291 9.5746-5.1248 21.379-5.1248s21.379 2.2956 21.379 5.1248v20.467c0 2.8292-9.5746 5.1248-21.379 5.1248s-21.379-2.2956-21.379-5.1248z" fill="#bdbdbd" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <path d="m414.35 244.48c0 2.8292 9.5746 5.1086 21.379 5.1086s21.379-2.2795 21.379-5.1086" fill="none" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <g transform="translate(-17.236 18.851)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:453px;padding-top:239px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b font-size="7px">/home/
-           <xhtml:br/>
-          </xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="453" y="243" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle"/>
-    </switch>
-   </g>
-  </g>
-  <g transform="matrix(.50598 0 0 .50515 -31.787 213.86)">
-   <path d="m414.35 264.95v-20.467c0-2.8291 9.5746-5.1248 21.379-5.1248s21.379 2.2956 21.379 5.1248v20.467c0 2.8292-9.5746 5.1248-21.379 5.1248s-21.379-2.2956-21.379-5.1248z" fill="#bdbdbd" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <path d="m414.35 244.48c0 2.8292 9.5746 5.1086 21.379 5.1086s21.379-2.2795 21.379-5.1086" fill="none" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <g transform="translate(-17.236 18.851)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:453px;padding-top:239px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b font-size="7px">/home/
-           <xhtml:br/>
-          </xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="453" y="243" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle"/>
-    </switch>
-   </g>
-  </g>
-  <g transform="matrix(.50598 0 0 .50515 -40.204 231.13)">
-   <path d="m414.35 264.95v-20.467c0-2.8291 9.5746-5.1248 21.379-5.1248s21.379 2.2956 21.379 5.1248v20.467c0 2.8292-9.5746 5.1248-21.379 5.1248s-21.379-2.2956-21.379-5.1248z" fill="#bdbdbd" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <path d="m414.35 244.48c0 2.8292 9.5746 5.1086 21.379 5.1086s21.379-2.2795 21.379-5.1086" fill="none" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <g transform="translate(-17.236 18.851)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:453px;padding-top:239px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b font-size="7px">/home/
-           <xhtml:br/>
-          </xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="453" y="243" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle"/>
-    </switch>
-   </g>
-  </g>
-  <g transform="matrix(1.4004 0 0 1.4127 38.697 -284.63)">
-   <path d="m274.1 327.84v-30.816c0-4.2669 11.58-7.7111 25.88-7.7111 14.29 0 25.87 3.4442 25.87 7.7111v30.816c0 4.253-11.58 7.6972-25.87 7.6972-14.3 0-25.88-3.4442-25.88-7.6972z" fill="#bdbdbd" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <path d="m274.29 295.95c0 3.05 11.395 4.4106 25.695 4.4106 14.29 0 25.685-1.5455 25.685-4.5955" fill="none" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <g transform="translate(-26.649 17.805)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:326px;padding-top:304px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>Storage</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="326" y="308" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Storage</text>
-    </switch>
-   </g>
-   <g transform="translate(-26.649 12.575)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:327px;padding-top:296px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>Aalto ITs</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="327" y="300" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">NIRD</text>
-    </switch>
-   </g>
-  </g>
-  <path d="m365.89 130.72c21.271 0 19.126-0.22294 19.126 10.239 0 7.3582 3.5142 6.456 35.9 6.448" fill="none" pointer-events="stroke" stroke="#426ebb" stroke-miterlimit="10" stroke-width=".51054"/>
-  <path d="m419.26 205.07c15.745-0.3926 15.16-0.22536 14.746 15.871" fill="none" pointer-events="stroke" stroke="#a75656" stroke-miterlimit="10" stroke-width="1.0025"/>
-  <g transform="matrix(.79225 0 0 .75068 208.97 2.6703)">
-   <path d="m274.1 327.84v-30.816c0-4.2669 11.58-7.7111 25.88-7.7111 14.29 0 25.87 3.4442 25.87 7.7111v30.816c0 4.253-11.58 7.6972-25.87 7.6972-14.3 0-25.88-3.4442-25.88-7.6972z" fill="#bdbdbd" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <path d="m274.29 295.95c0 3.05 11.395 4.4106 25.695 4.4106 14.29 0 25.685-1.5455 25.685-4.5955" fill="none" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="1.3"/>
-   <g transform="translate(-26.649 17.805)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:326px;padding-top:304px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>Storage</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="326" y="308" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Storage</text>
-    </switch>
-   </g>
-   <g transform="translate(-26.649 12.575)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:327px;padding-top:296px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>Aalto ITs</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="327" y="300" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">/work/</text>
-    </switch>
-   </g>
-  </g>
-  <path d="m136.18 181.8c9.8742 0 8.8782-0.62396 8.8782 28.657 0 20.594 1.6313 18.069 16.665 18.046" fill="none" pointer-events="stroke" stroke="#426ebb" stroke-miterlimit="10" stroke-width=".58192"/>
- </g>
- <g>
-  <g transform="matrix(.73155 0 0 .75068 34.163 36.279)">
-   <switch transform="translate(-1.569 -1.046)">
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:328px;padding-top:170px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>triton.aalto.fi</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="299.75861" y="297.94827" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-     <tspan font-size="10.667px">bioint01.hpc.uio.no</tspan>
-    </text>
-   </switch>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 -5.159 55.892)">
-   <g transform="matrix(.52857 0 0 .52857 302.71 153.95)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg4271"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="UiO_Computing_options.svg">
+  <defs
+     id="defs4265" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-27.142857"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4268">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,68.116599,123.78296)"
+       id="g2365">
+      <g
+         transform="matrix(0.73155,0,0,0.75068,211.15,11.21)"
+         id="g2361">
+        <g
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.70390999"
+           id="g2357">
+          <image
+             x="128.7"
+             y="260.29999"
+             width="10.442"
+             height="13.24"
+             xlink:href="file:///C:/Users/eglerean/Downloads/Server_Desktop.svg"
+             id="image2349" />
+          <image
+             x="139.16"
+             y="273.54999"
+             width="10.442"
+             height="13.24"
+             xlink:href="file:///C:/Users/eglerean/Downloads/Server_Desktop.svg"
+             id="image2351" />
+          <image
+             x="149.60001"
+             y="260.29999"
+             width="10.442"
+             height="13.24"
+             xlink:href="file:///C:/Users/eglerean/Downloads/Server_Desktop.svg"
+             id="image2353" />
+          <image
+             x="160.05"
+             y="273.54999"
+             width="10.442"
+             height="13.24"
+             xlink:href="file:///C:/Users/eglerean/Downloads/Server_Desktop.svg"
+             id="image2355" />
+        </g>
+        <rect
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:2.06459999;stroke-linejoin:round"
+           x="-213.05"
+           y="91.426003"
+           width="566.84998"
+           height="431.39999"
+           id="rect2359" />
+      </g>
+      <ellipse
+         style="fill:none;stroke:#b3b3b3;stroke-width:2.05380011;stroke-linecap:square;stroke-miterlimit:10"
+         cx="293.98001"
+         cy="223.25"
+         rx="284.37"
+         ry="204.50999"
+         stroke-miterlimit="10"
+         id="ellipse2363" />
     </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.37795 0 0 .37795 36.167 -7.4697)">
-    <g transform="matrix(.72477 -.44387 0 .72477 731.55 252.14)">
-     <circle cx="59.462" cy="380.06" r="22.624" fill="#dc0000" style="paint-order:stroke fill markers"/>
-     <circle cx="59.462" cy="380.06" r="17.776" fill="#0046aa" style="paint-order:stroke fill markers"/>
-     <rect transform="rotate(-45)" x="-228.72" y="289.38" width="4.04" height="42.825" fill="#dc0000" style="paint-order:stroke fill markers"/>
-     <rect transform="matrix(-.70711 -.70711 -.70711 .70711 0 0)" x="-312.81" y="205.29" width="4.04" height="42.825" fill="#dc0000" style="paint-order:stroke fill markers"/>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,65.184875,120.2363)"
+       id="g2399">
+      <g
+         transform="matrix(0.73155,0,0,0.75068,-39.096,33.121)"
+         id="g2379">
+        <ellipse
+           style="fill:#e9e9e9"
+           cx="311.92999"
+           cy="235.7"
+           rx="175.39999"
+           ry="116.51"
+           pointer-events="all"
+           id="ellipse2367" />
+        <circle
+           style="fill:#ffffff"
+           cx="390.57001"
+           cy="234.98"
+           r="83.959999"
+           pointer-events="all"
+           id="circle2369" />
+        <g
+           transform="translate(-22.043,-3.883)"
+           id="g2373">
+          <rect
+             style="fill:#ffffff"
+             x="191.44"
+             y="242.69"
+             width="78.914001"
+             height="68.016998"
+             rx="9.9368"
+             ry="9.9368"
+             id="rect2371" />
+        </g>
+        <g
+           transform="translate(9.8592,-23.757)"
+           id="g2377">
+          <circle
+             style="fill:#ffffff"
+             cx="206.35001"
+             cy="204.96001"
+             r="34.5"
+             pointer-events="all"
+             id="circle2375" />
+        </g>
+      </g>
+      <text
+         transform="scale(0.98718,1.013)"
+         x="146.30992"
+         y="144.30946"
+         font-size="15.809px"
+         letter-spacing="0px"
+         word-spacing="0px"
+         style="font-size:15.80900002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.74105"
+         xml:space="preserve"
+         id="text2383"><tspan
+           style="font-weight:bold;font-size:12.84500027px;font-family:Helvetica;fill:#999999;stroke-width:0.74105"
+           x="146.30992"
+           y="144.30946"
+           font-size="12.845px"
+           font-weight="bold"
+           id="tspan2381">Uio Network</tspan></text>
+      <ellipse
+         style="fill:#cccccc;stroke-width:0.63023001"
+         cx="223.88"
+         cy="361.76001"
+         rx="68.866997"
+         ry="45.147999"
+         id="ellipse2385" />
+      <text
+         transform="scale(0.98718,1.013)"
+         x="205.1656"
+         y="328.69928"
+         font-size="15.809px"
+         letter-spacing="0px"
+         word-spacing="0px"
+         style="font-size:15.80900002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.74105"
+         xml:space="preserve"
+         id="text2389"><tspan
+           style="font-weight:bold;font-size:12.84500027px;font-family:Helvetica;fill:#4d4d4d;stroke-width:0.74105"
+           x="205.1656"
+           y="328.69928"
+           font-size="12.845px"
+           font-weight="bold"
+           id="tspan2387">NREC</tspan></text>
+      <ellipse
+         style="fill:#cccccc;stroke-width:0.63023001"
+         cx="381.51001"
+         cy="342.51999"
+         rx="68.866997"
+         ry="45.147999"
+         id="ellipse2391" />
+      <text
+         transform="scale(0.98718,1.013)"
+         x="345.62851"
+         y="315.60056"
+         font-size="15.809px"
+         letter-spacing="0px"
+         word-spacing="0px"
+         style="font-size:15.80900002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.74105"
+         xml:space="preserve"
+         id="text2395"><tspan
+           style="font-weight:bold;font-size:12.84500027px;font-family:Helvetica;fill:#4d4d4d;stroke-width:0.74105"
+           x="345.62851"
+           y="315.60056"
+           font-size="12.845px"
+           font-weight="bold"
+           id="tspan2393">Google Cloud</tspan></text>
+      <ellipse
+         style="fill:#cccccc;stroke-width:1.15550005"
+         cx="434.32999"
+         cy="178.73"
+         rx="103.58"
+         ry="100.9"
+         id="ellipse2397" />
     </g>
-   </g>
   </g>
-  <g transform="matrix(.73155 0 0 .75068 4.6855 30.326)" pointer-events="all">
-   <path d="m232.74 108.68c0-3.3963 2.7416-6.1379 6.1379-6.1379h18.414c3.3963 0 6.1379 2.7416 6.1379 6.1379v18.414c0 3.3963-2.7416 6.1379-6.1379 6.1379h-18.414c-3.3963 0-6.1379-2.7416-6.1379-6.1379z" fill="#505050" stroke-miterlimit="10"/>
-   <g fill="#fff">
-    <path d="m235.19 112.81h1.3913l2.7621 7.8361 2.7621-7.8361h1.3708l-3.3759 9.8207h-1.5345z"/>
-    <path d="m244.4 122.63v-9.8207h3.9896c1.5549 0 2.8234 1.4117 2.8234 3.1508s-1.2685 3.1508-2.8234 3.1508h-2.5984v3.5191zm1.3913-4.7467h2.5984c0.81839 0 1.4731-0.81839 1.4731-1.8414s-0.65472-1.8414-1.4731-1.8414h-2.5984z"/>
-    <path d="m252.68 122.63v-9.8207h1.2276l5.3809 7.6724v-7.6724h1.3708v9.8207h-1.5345l-5.074-7.2018v7.2018z"/>
-   </g>
-  </g>
-  <g transform="matrix(.38668 0 0 .39679 73.449 244.83)">
-   <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-    <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-    <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-    <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-   </g>
-   <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-   <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-   <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-   <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-   <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 -7.8665 100.55)">
-   <g transform="matrix(.52857 0 0 .52857 302.71 153.95)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.37795 0 0 .37795 36.167 -7.4697)">
-    <g transform="matrix(.72477 -.44387 0 .72477 731.55 252.14)">
-     <circle cx="59.462" cy="380.06" r="22.624" fill="#dc0000" style="paint-order:stroke fill markers"/>
-     <circle cx="59.462" cy="380.06" r="17.776" fill="#0046aa" style="paint-order:stroke fill markers"/>
-     <rect transform="rotate(-45)" x="-228.72" y="289.38" width="4.04" height="42.825" fill="#dc0000" style="paint-order:stroke fill markers"/>
-     <rect transform="matrix(-.70711 -.70711 -.70711 .70711 0 0)" x="-312.81" y="205.29" width="4.04" height="42.825" fill="#dc0000" style="paint-order:stroke fill markers"/>
-    </g>
-   </g>
-  </g>
-  <g transform="matrix(.60417 0 0 .63445 378.07 184.43)">
-   <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-    <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-    <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-    <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-   </g>
-   <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-   <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-   <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-   <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-   <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-  </g>
-  <g transform="matrix(.79225 0 0 .75068 140.79 -27.15)">
-   <switch transform="translate(-1.569 -1.046)">
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:328px;padding-top:170px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>triton.aalto.fi</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="299.75861" y="297.94827" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-     <tspan font-size="10.667px">fram.sigma2.no</tspan>
-    </text>
-   </switch>
-  </g>
-  <g transform="matrix(.79225 0 0 .75068 140.2 -16.952)">
-   <switch transform="translate(-1.569 -1.046)">
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:328px;padding-top:170px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>triton.aalto.fi</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="299.75861" y="297.94827" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-     <tspan font-size="10.667px">saga.sigma2.no</tspan>
-    </text>
-   </switch>
-  </g>
-  <g transform="matrix(.79225 0 0 .75068 139.37 -7.5299)">
-   <switch transform="translate(-1.569 -1.046)">
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:328px;padding-top:170px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>triton.aalto.fi</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="299.75861" y="297.94827" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-     <tspan font-size="10.667px">betzy.sigma2.no</tspan>
-    </text>
-   </switch>
-  </g>
-  <g transform="matrix(.41876 0 0 .39679 517.24 164.86)">
-   <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-    <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-    <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-    <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-   </g>
-   <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-   <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-   <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-   <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-   <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-  </g>
- </g>
- <g>
-  <g transform="matrix(.73155 0 0 .75068 -80.191 23.646)">
-   <switch>
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:265px;padding-top:261px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:b font-size="11px">
-         <xhtml:font font-size="11px">Department
-          <xhtml:br/>
-Network         </xhtml:font>
-        </xhtml:b>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="265" y="265" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-     <tspan x="265" y="265">UiO</tspan>
-     <tspan x="265" y="280">workstations</tspan>
-    </text>
-   </switch>
-  </g>
-  <g transform="matrix(.57991 0 0 .59506 -154.26 178.83)">
-   <g transform="matrix(.1971 0 0 .1971 459.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 445.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 485.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 471.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 -53.678 185.9)">
-   <switch>
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:426px;padding-top:210px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>CPUs/GPUs</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="426" y="214" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">CPUs</text>
-   </switch>
-  </g>
-  <g transform="matrix(.58003 0 0 .57265 -15.89 294.1)">
-   <g transform="matrix(.1971 0 0 .1971 459.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 445.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 485.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 471.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 -51.26 19.899)">
-   <switch>
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:232px;padding-top:182px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:b font-size="11px">
-         <xhtml:font font-size="11px">VDI
-          <xhtml:br/>
-Network         </xhtml:font>
-        </xhtml:b>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="232.52299" y="182.33908" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">VDI</text>
-   </switch>
-  </g>
-  <g transform="matrix(.57991 0 0 .59506 -152.95 101.58)">
-   <g transform="matrix(.1971 0 0 .1971 459.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 445.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 485.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 471.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 65.994 210.23)">
-   <switch>
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:426px;padding-top:210px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>CPUs/GPUs</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="426" y="214" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">CPUs/GPUs</text>
-   </switch>
-  </g>
-  <g transform="matrix(.57991 0 0 .59506 70.285 274.23)">
-   <g transform="matrix(.1971 0 0 .1971 459.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 445.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 485.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 471.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-  </g>
-  <g transform="matrix(.57991 0 0 .59506 110.07 274.23)">
-   <g transform="matrix(.1971 0 0 .1971 459.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 445.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 485.03 118.72)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-   <g transform="matrix(.1971 0 0 .1971 471.03 101.06)">
-    <g fill="none" stroke="#626366" stroke-linejoin="round" stroke-width="3">
-     <path d="m24.3 39.242 45.2-24v48.9l-45.1 24z"/>
-     <path d="m1.5 25.442 45.2-23.9 22.8 13.7-45.2 24z"/>
-     <path d="m24.3 39.242 0.1 48.9-22.9-13.7v-49z"/>
-    </g>
-    <path d="m24.3 39.2 45.2-24v49l-45.1 23.9z" fill="#898b8e"/>
-    <path d="m1.5 25.5 45.2-24 22.8 13.7-45.2 24z" fill="#bbbdbf"/>
-    <path d="m24.3 39.2 0.1 48.9-22.9-13.7v-48.9z" fill="#b3b5b7"/>
-    <path d="m2.2 25.5 22.3 13.4v49" fill="none" stroke="#dfe0df" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
-    <path d="m21.3 49.3-17.3-10.4v-6.5l17.3 10.4zm0 6.2l-17.3-10.4v-3.7l17.3 10.4zm0 19.2l-17.3-10.4v-1.7l17.3 10.4zm0 3.8l-17.3-10.4v-1.7l17.3 10.4zm0 4l-17.3-10.4v-1.7l17.3 10.4z" fill="#fefefe"/>
-   </g>
-  </g>
-  <g transform="matrix(.79225 0 0 .75068 59.484 99.825)">
-   <switch>
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:426px;padding-top:210px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>CPUs/GPUs</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="426" y="214" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">CPUs/GPUs</text>
-   </switch>
-  </g>
- </g>
- <g transform="translate(-22 -.70973)">
-  <switch>
-   <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-    <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:410px;padding-top:75px;width:1px">
-     <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-      <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-       <xhtml:span font-size="11px">
-        <xhtml:b>
-         <xhtml:br/>
-        </xhtml:b>
-       </xhtml:span>
-      </xhtml:div>
-     </xhtml:div>
-    </xhtml:div>
-   </foreignObject>
-   <text x="410" y="79" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle"/>
-  </switch>
- </g>
- <rect x="-.9089" y="245.23" width="87.787" height="97.588" fill="none" pointer-events="all"/>
- <g>
-  <g transform="matrix(.73155 0 0 .75068 -62.822 43.081)">
-   <switch transform="translate(12.029 -18.305)">
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:407px;padding-top:178px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:b font-size="11px">
-         <xhtml:font font-size="11px">Triton
-          <xhtml:br/>
-Network         </xhtml:font>
-        </xhtml:b>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="412.37418" y="177.57889" fill="#c1c1c1" font-family="Helvetica" font-size="18.222px" text-anchor="middle">
-     <tspan fill="#c1c1c1" font-weight="bold">Freebee</tspan>
-    </text>
-   </switch>
-  </g>
-  <g transform="matrix(1.4385 0 0 1.4761 -55.513 -45.243)" fill="#b3b3b3" stroke-width=".50857">
-   <switch fill="#b3b3b3" stroke-width=".50857">
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:249px;padding-top:61px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:b>
-         <xhtml:font font-size="18px">Internet</xhtml:font>
-        </xhtml:b>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="249" y="65" fill="#b3b3b3" font-family="Helvetica" font-size="12px" stroke-width=".25864" text-anchor="middle">
-     <tspan font-weight="bold">Internet</tspan>
-    </text>
-   </switch>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 -46.005 40.709)">
-   <path d="m198.75 116.34h1.39v-1.4h-1.39zm2.79 0h1.39v-1.4h-1.39zm-24.23 22.5c-0.93 0-1.8-0.83-1.8-1.85v-21.59c0-1.17 1.02-1.87 1.79-1.87h27.98c0.87 0 1.83 0.73 1.83 1.86v10.8h-1.39v-7.97h-28.82v18.77c0 0.3 0.26 0.45 0.44 0.45h17.22v1.4zm4.24-3.75v-3.75h2.33v-3.75h6.97v-2.81h-2.79v-4.22h6.5v4.22h-2.78v2.81h3.16c-0.15 0.28-0.28 0.58-0.33 0.93h-2.83v2.82h2.32v3.75h-5.58v-3.75h2.33v-2.82h-6.05v2.82h2.33v3.75zm22.77-18.75h1.4v-1.4h-1.4zm-7.01 27.19c-0.64 0-1.35-0.51-1.35-1.43v-13.14c0-0.72 0.59-1.37 1.37-1.37h13.05c0.62 0 1.38 0.46 1.38 1.45v13.1c0 0.9-0.76 1.39-1.34 1.39zm6.1-3.31c-0.87-0.07-1.7-0.42-2.34-0.92-0.2-0.25-0.42-0.47-0.66-0.6-0.08-0.09-0.16-0.2-0.25-0.31-0.12-0.34-0.29-0.73-0.32-0.98-0.05-0.23-0.01-0.38 0.19-0.5 0.26-0.14 0.61-0.25 0.95-0.37-0.08-0.15-0.31-0.36-0.51-0.55-0.29-0.28-0.57-0.55-0.78-0.8-0.16-0.18-0.29-0.34-0.37-0.7 0.45-1.89 1.75-2.87 2.83-3.3 0.25 0.14 0.4 0.4 0.46 0.63 0.04 0.17 0.08 0.19 0.3 0.18 0.11-0.01 0.48-0.44 0.68-0.52 0.22-0.13 0.46-0.12 0.62 0 0.26 0.16 0.29 0.39 0.32 0.62 0.02 0.24 0 0.54-0.12 0.76-0.05 0.08-0.07 0.08-0.17 0.08-0.28 0.02-0.5 0.05-0.75 0.34-0.15 0.19-0.25 0.27-0.56 0.26-0.09 0.01-0.16 0.08-0.21 0.13-0.21 0.24-0.38 0.6-0.47 0.98-0.03 0.11-0.02 0.24 0.04 0.39 0.08 0.23 0.26 0.6 0.17 0.61-0.26-0.1-0.48-0.24-0.59-0.38-0.11-0.12-0.2-0.26-0.19-0.45-0.16-0.16-0.35-0.23-0.58-0.18-0.2 0.03-0.33 0.15-0.29 0.44 0.08 0.31 0.38 0.65 0.66 0.92 0.23 0.22 0.47 0.43 0.72 0.64 0.06 0 0.11 0.04 0.22 0.05 0.27-0.01 0.69-0.03 0.93-0.05 0.24 0 0.5-0.01 0.67 0.05 0.13 0.04 0.15 0.13 0.13 0.18 0.43 0.45 0.25 1.17-0.09 1.64-0.17 0.25-0.26 0.53-0.33 0.83-0.08 0.36-0.15 0.68-0.31 0.88zm4.33-2.09c-0.3-0.03-0.86-1.01-0.91-1.63-0.31-0.06-1.07-0.3-1.52-0.68-0.22-0.16-0.24-0.41-0.16-0.76 0.12-0.44 0.51-0.89 1.05-1.3 0.24-0.19 0.66-0.48 0.7-0.56 0.06-0.05 0.01-0.08-0.12-0.08-0.2 0.01-0.41 0.01-0.56-0.01-0.45-0.06-0.61-0.25-0.48-0.6 0.13-0.38 0.43-0.72 0.68-0.86 0.8 0.54 1.79 1.58 2.05 3.29 0.15 1.32-0.19 2.36-0.73 3.19zm-3.9 2.59c2.81 0 5.13-2.32 5.13-5.15 0-3.02-2.44-5.16-5.05-5.16-2.84 0-5.17 2.25-5.17 5.13 0 3.04 2.41 5.18 5.09 5.18z" fill="#505050" pointer-events="all"/>
-   <g transform="translate(47.74 -81.534)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:148px;padding-top:183px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>https://vdi.aalto.fi</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="148" y="187" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">https://view.uio.no</text>
-    </switch>
-   </g>
-   <g transform="translate(45.648 -77.994)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:148px;padding-top:183px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>https://vdi.aalto.fi</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-    </switch>
-   </g>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 -256.41 166.36)">
-   <switch>
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:426px;padding-top:210px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>CPUs/GPUs</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="464.17816" y="162.74713" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">login.uio.no</text>
-   </switch>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 -229.02 316.84)">
-   <g transform="translate(151.49 -241.12)">
-    <rect x="432.08" y="300.52" width="29.122" height="19.785" ry="0" fill="#fff"/>
-    <path d="m454.1 298.9h1.39v-1.4h-1.39zm2.79 0h1.39v-1.4h-1.39zm-24.23 22.5c-0.93 0-1.8-0.83-1.8-1.85v-21.59c0-1.17 1.02-1.87 1.79-1.87h27.98c0.87 0 1.83 0.73 1.83 1.86v10.8h-1.39v-7.97h-28.82v18.77c0 0.3 0.26 0.45 0.44 0.45h17.22v1.4zm4.24-3.75v-3.75h2.33v-3.75h6.97v-2.81h-2.79v-4.22h6.5v4.22h-2.78v2.81h3.16c-0.15 0.28-0.28 0.58-0.33 0.93h-2.83v2.82h2.32v3.75h-5.58v-3.75h2.33v-2.82h-6.05v2.82h2.33v3.75zm22.77-18.75h1.4v-1.4h-1.4zm-7.01 27.19c-0.64 0-1.35-0.51-1.35-1.42v-13.15c0-0.72 0.59-1.37 1.37-1.37h13.05c0.62 0 1.38 0.46 1.38 1.45v13.1c0 0.9-0.76 1.39-1.34 1.39zm6.1-3.31c-0.87-0.07-1.7-0.42-2.34-0.92-0.2-0.25-0.42-0.47-0.66-0.6-0.08-0.09-0.16-0.2-0.25-0.31-0.12-0.34-0.29-0.73-0.32-0.98-0.05-0.23-0.01-0.38 0.19-0.5 0.26-0.14 0.61-0.25 0.95-0.37-0.08-0.15-0.31-0.36-0.51-0.55-0.29-0.28-0.57-0.55-0.78-0.8-0.16-0.18-0.29-0.34-0.37-0.7 0.45-1.88 1.75-2.87 2.83-3.3 0.25 0.14 0.4 0.4 0.46 0.63 0.04 0.17 0.08 0.19 0.3 0.18 0.11-0.01 0.48-0.44 0.68-0.52 0.22-0.12 0.46-0.12 0.62 0 0.26 0.16 0.29 0.39 0.32 0.62 0.02 0.24 0 0.54-0.12 0.76-0.05 0.08-0.07 0.08-0.17 0.08-0.28 0.01-0.5 0.05-0.75 0.34-0.15 0.19-0.25 0.27-0.56 0.26-0.09 0.01-0.16 0.08-0.21 0.13-0.21 0.24-0.38 0.6-0.47 0.98-0.03 0.11-0.02 0.24 0.04 0.39 0.08 0.23 0.26 0.6 0.17 0.61-0.26-0.1-0.48-0.24-0.59-0.38-0.11-0.12-0.2-0.26-0.19-0.45-0.16-0.16-0.35-0.23-0.58-0.18-0.2 0.03-0.33 0.15-0.29 0.44 0.08 0.31 0.38 0.65 0.66 0.92 0.23 0.22 0.47 0.43 0.72 0.64 0.06 0 0.11 0.04 0.22 0.05 0.27-0.01 0.69-0.03 0.93-0.05 0.24 0 0.5-0.01 0.67 0.05 0.13 0.04 0.15 0.13 0.13 0.18 0.43 0.45 0.25 1.17-0.09 1.64-0.17 0.25-0.26 0.53-0.33 0.83-0.08 0.36-0.15 0.68-0.31 0.88zm4.33-2.09c-0.3-0.03-0.86-1.01-0.91-1.63-0.31-0.06-1.07-0.3-1.52-0.68-0.22-0.16-0.24-0.41-0.16-0.76 0.12-0.44 0.51-0.89 1.05-1.3 0.24-0.19 0.66-0.48 0.7-0.56 0.06-0.05 0.01-0.08-0.12-0.08-0.2 0.01-0.41 0.01-0.56-0.01-0.45-0.06-0.61-0.25-0.48-0.6 0.13-0.38 0.43-0.72 0.68-0.86 0.8 0.54 1.79 1.58 2.05 3.29 0.15 1.32-0.19 2.36-0.73 3.19zm-3.9 2.59c2.81 0 5.13-2.32 5.13-5.15 0-3.02-2.44-5.16-5.05-5.16-2.84 0-5.17 2.25-5.17 5.13 0 3.04 2.41 5.18 5.09 5.18z" fill="#505050" pointer-events="all"/>
-   </g>
-   <g transform="translate(191.49 -226.45)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:409px;padding-top:331px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>https://jupyter.triton.aalto.fi</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="409" y="335" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle"/>
-    </switch>
-   </g>
-   <text x="547.96844" y="98.023842" fill="#000000" font-family="sans-serif" font-size="21.333px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="547.96844" y="98.023842" font-size="10.667px">https://jupyterhub.uio.no/</tspan></text>
-  </g>
-  <g transform="translate(-83.055 -2.6344)">
-   <switch>
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:426px;padding-top:210px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>CPUs/GPUs</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="464.17816" y="162.74713" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle"/>
-   </switch>
-  </g>
-  <g transform="matrix(.73155 0 0 .75068 -118.88 89.678)">
-   <switch>
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:426px;padding-top:210px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>CPUs/GPUs</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="464.17816" y="162.74713" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-     <tspan font-size="10.667px">freebio.hpc.uio.no</tspan>
-    </text>
-   </switch>
-  </g>
-  <g transform="matrix(.79225 0 0 .75068 -122.7 78.858)">
-   <g transform="translate(151.49 -241.12)">
-    <rect x="432.08" y="300.52" width="29.122" height="19.785" ry="0" fill="#fff"/>
-    <path d="m454.1 298.9h1.39v-1.4h-1.39zm2.79 0h1.39v-1.4h-1.39zm-24.23 22.5c-0.93 0-1.8-0.83-1.8-1.85v-21.59c0-1.17 1.02-1.87 1.79-1.87h27.98c0.87 0 1.83 0.73 1.83 1.86v10.8h-1.39v-7.97h-28.82v18.77c0 0.3 0.26 0.45 0.44 0.45h17.22v1.4zm4.24-3.75v-3.75h2.33v-3.75h6.97v-2.81h-2.79v-4.22h6.5v4.22h-2.78v2.81h3.16c-0.15 0.28-0.28 0.58-0.33 0.93h-2.83v2.82h2.32v3.75h-5.58v-3.75h2.33v-2.82h-6.05v2.82h2.33v3.75zm22.77-18.75h1.4v-1.4h-1.4zm-7.01 27.19c-0.64 0-1.35-0.51-1.35-1.42v-13.15c0-0.72 0.59-1.37 1.37-1.37h13.05c0.62 0 1.38 0.46 1.38 1.45v13.1c0 0.9-0.76 1.39-1.34 1.39zm6.1-3.31c-0.87-0.07-1.7-0.42-2.34-0.92-0.2-0.25-0.42-0.47-0.66-0.6-0.08-0.09-0.16-0.2-0.25-0.31-0.12-0.34-0.29-0.73-0.32-0.98-0.05-0.23-0.01-0.38 0.19-0.5 0.26-0.14 0.61-0.25 0.95-0.37-0.08-0.15-0.31-0.36-0.51-0.55-0.29-0.28-0.57-0.55-0.78-0.8-0.16-0.18-0.29-0.34-0.37-0.7 0.45-1.88 1.75-2.87 2.83-3.3 0.25 0.14 0.4 0.4 0.46 0.63 0.04 0.17 0.08 0.19 0.3 0.18 0.11-0.01 0.48-0.44 0.68-0.52 0.22-0.12 0.46-0.12 0.62 0 0.26 0.16 0.29 0.39 0.32 0.62 0.02 0.24 0 0.54-0.12 0.76-0.05 0.08-0.07 0.08-0.17 0.08-0.28 0.01-0.5 0.05-0.75 0.34-0.15 0.19-0.25 0.27-0.56 0.26-0.09 0.01-0.16 0.08-0.21 0.13-0.21 0.24-0.38 0.6-0.47 0.98-0.03 0.11-0.02 0.24 0.04 0.39 0.08 0.23 0.26 0.6 0.17 0.61-0.26-0.1-0.48-0.24-0.59-0.38-0.11-0.12-0.2-0.26-0.19-0.45-0.16-0.16-0.35-0.23-0.58-0.18-0.2 0.03-0.33 0.15-0.29 0.44 0.08 0.31 0.38 0.65 0.66 0.92 0.23 0.22 0.47 0.43 0.72 0.64 0.06 0 0.11 0.04 0.22 0.05 0.27-0.01 0.69-0.03 0.93-0.05 0.24 0 0.5-0.01 0.67 0.05 0.13 0.04 0.15 0.13 0.13 0.18 0.43 0.45 0.25 1.17-0.09 1.64-0.17 0.25-0.26 0.53-0.33 0.83-0.08 0.36-0.15 0.68-0.31 0.88zm4.33-2.09c-0.3-0.03-0.86-1.01-0.91-1.63-0.31-0.06-1.07-0.3-1.52-0.68-0.22-0.16-0.24-0.41-0.16-0.76 0.12-0.44 0.51-0.89 1.05-1.3 0.24-0.19 0.66-0.48 0.7-0.56 0.06-0.05 0.01-0.08-0.12-0.08-0.2 0.01-0.41 0.01-0.56-0.01-0.45-0.06-0.61-0.25-0.48-0.6 0.13-0.38 0.43-0.72 0.68-0.86 0.8 0.54 1.79 1.58 2.05 3.29 0.15 1.32-0.19 2.36-0.73 3.19zm-3.9 2.59c2.81 0 5.13-2.32 5.13-5.15 0-3.02-2.44-5.16-5.05-5.16-2.84 0-5.17 2.25-5.17 5.13 0 3.04 2.41 5.18 5.09 5.18z" fill="#505050" pointer-events="all"/>
-   </g>
-   <g transform="translate(191.49 -226.45)">
-    <switch>
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:409px;padding-top:331px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:span font-size="11px">
-          <xhtml:b>https://jupyter.triton.aalto.fi</xhtml:b>
-         </xhtml:span>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="409" y="335" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle"/>
-    </switch>
-   </g>
-   <text x="547.96844" y="98.023842" fill="#000000" font-family="sans-serif" font-size="21.333px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="547.96844" y="98.023842" font-size="10.667px">Jupyter, RStudio, etc.</tspan></text>
-  </g>
-  <g stroke-width=".50857">
-   <g transform="matrix(1.5578 0 0 1.4761 -60.152 63.893)" fill="#b3b3b3">
-    <switch fill="#b3b3b3" stroke-width=".50857">
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:249px;padding-top:61px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:b>
-          <xhtml:font font-size="18px">Internet</xhtml:font>
-         </xhtml:b>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="279.85327" y="72.979294" fill="#4d4d4d" font-family="Helvetica" font-size="12px" stroke-width=".25864" text-anchor="middle">
-      <tspan fill="#4d4d4d" font-size="9.4933px" font-weight="bold">NIRDToolkit</tspan>
-     </text>
-    </switch>
-   </g>
-   <g transform="matrix(1.5578 0 0 1.4761 1.2342 167.02)" fill="#b3b3b3">
-    <switch fill="#b3b3b3" stroke-width=".50857">
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:249px;padding-top:61px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:b>
-          <xhtml:font font-size="18px">Internet</xhtml:font>
-         </xhtml:b>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="254.31953" y="57.02071" fill="#4d4d4d" font-family="Helvetica" font-size="12px" stroke-width=".25864" text-anchor="middle">
-      <tspan fill="#4d4d4d" font-size="9.4933px" font-weight="bold">HPCs</tspan>
-     </text>
-    </switch>
-   </g>
-   <g transform="matrix(1.5578 0 0 1.4761 45.918 13.641)">
-    <switch fill="#000000" stroke-width=".50857">
-     <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-      <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:249px;padding-top:61px;width:1px">
-       <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-        <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-         <xhtml:b>
-          <xhtml:font font-size="18px">Internet</xhtml:font>
-         </xhtml:b>
-        </xhtml:div>
-       </xhtml:div>
-      </xhtml:div>
-     </foreignObject>
-     <text x="252.72366" y="59.680473" fill="#000000" font-family="Helvetica" font-size="12px" stroke-width=".25864" text-anchor="middle">
-      <tspan fill="#000000" font-weight="bold">Sigma2</tspan>
-     </text>
-    </switch>
-   </g>
-  </g>
-  <g transform="matrix(.79225 0 0 .75068 152.64 86.315)">
-   <switch>
-    <foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-     <xhtml:div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:426px;padding-top:210px;width:1px">
-      <xhtml:div font-size="0" text-align="center" style="box-sizing:border-box">
-       <xhtml:div color="#000000" display="inline-block" font-family="Helvetica" font-size="12px" pointer-events="all" style="line-height:1.2;white-space:nowrap">
-        <xhtml:span font-size="11px">
-         <xhtml:b>CPUs/GPUs</xhtml:b>
-        </xhtml:span>
-       </xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text x="464.17816" y="162.74713" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">login.nird.sigma2.no</text>
-   </switch>
-  </g>
- </g>
 </svg>
