@@ -22,7 +22,7 @@ What's your style?
 ------------------
 
 To get started, you can use Jupyter (4) and VDI (3) which are good for developing and prototyping. 
-Then to scale up, you can use the Sigma2 options: 6, 8, 9 which have access to the same data.  If you need the most power or flexibility, use `the services from the Norwegian e-infrastructure for Research & Education (Sigma2) <https://www.sigma2.no/>`_ for your data storage and computation (`Apply for Sigma2 resources <https://www.sigma2.no/apply-e-infrastructure-resources>`_ and `account required <https://www.metacenter.no/user/application/form/notur/>`_ for 4-8).
+Then to scale up, you can use the options: 7, 9, 11.  If you need the most power or flexibility, use `the services from the Norwegian e-infrastructure for Research & Education (Sigma2) <https://www.sigma2.no/>`_ for your data storage and computation (`Apply for Sigma2 resources <https://www.sigma2.no/apply-e-infrastructure-resources>`_ and `account required <https://www.metacenter.no/user/application/form/notur/>`_ for 4-8).
  
 If you need simple applications with a graphical interface, try 3 (VDI).
 
