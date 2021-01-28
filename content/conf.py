@@ -17,11 +17,11 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'LESSON NAME'
-copyright = '2020, The contributors'
-author = 'The contributors'
-github_user = 'coderefinery'
-github_repo_name = ''  # auto-detected from dirname if blank
+project = 'Computing services for UiO researchers'
+copyright = u'2021, University of Oslo'
+author = 'CodeRefinery and DSC'
+github_user = 'annefou'
+github_repo_name = 'resources-UiO'  # auto-detected from dirname if blank
 github_version = 'master'
 conf_py_path = '/content/' # with leading and trailing slash
 
