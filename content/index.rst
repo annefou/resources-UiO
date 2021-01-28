@@ -1,13 +1,23 @@
 Overview of the computing resources at the University of Oslo
 ===============================================================
 
-Intro
+Remote access
+--------------
+
+   How can you work from home?  For that matter, how can you work on more than your desktop/laptop while at work?  There are many options which trade off between graphical interfaces and more power.  Read more for details.
+   
+With increased mobility of working conditions and recent global events that recommend tele-working, you might be asking yourself: "how do I stop using my workstation at the dept, and get analysis/figures/papers done from home?". 
 
 
+The data analysis workflows from remote might not be familiar to everyone. This course aims at providing you with an overview of the computing resources available to researchers working at the `University of Oslo <http://uio.no>`_ according to your needs and requests.
 
 .. prereq::
 
-   prerequisites
+   Make sure you have read the `Introduction to Linux and Aalto Computing <https://scicomp.aalto.fi/training/scip/intro-linux-aalto-computing/>`_.
+   
+   To get ready, follow our `preparation instructions <https://scicomp.aalto.fi/training/scip/intro-linux-aalto-computing/#preparation>`_.
+   
+   
 
 
 
