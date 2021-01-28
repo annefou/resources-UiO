@@ -116,7 +116,7 @@ Except if stated otherwise you will not be able to access your UiO data (UiO hom
      * Need to submit an `application for computing time <https://www.sigma2.no/high-performance-computing>`_ (evaluated and granted under conditions by a resource allocation committee; twice a year)
      
 
-.. image:: UiO_Computing_options.svg
+.. image:: UiO_Computing_options.png
 
 .. toctree::
    :maxdepth: 1
