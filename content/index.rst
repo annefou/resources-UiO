@@ -37,7 +37,7 @@ Intro
 Who is the course for?
 ----------------------
 
-This course is for any researchers working at the `University of Oslo <http://uio.no>`.
+This course is for any researchers working at the `University of Oslo <http://uio.no>`_.
 
 
 
@@ -52,7 +52,7 @@ This short course will give you an overview of the computing and storage resourc
 See also
 --------
 
-`Intro to Linux and Aalto University Computing <https://scicomp.aalto.fi/training/scip/intro-linux-aalto-computing/#jan-2020-intro-to-linux-and-aalto-computing>`
+`Intro to Linux and Aalto University Computing <https://scicomp.aalto.fi/training/scip/intro-linux-aalto-computing/#jan-2020-intro-to-linux-and-aalto-computing>`_.
 
 
 Credits
