@@ -88,3 +88,6 @@ html_context = {'display_github': True,
 #    #'python': ('https://docs.python.org/3', None),
 #    #'sphinx': ('https://www.sphinx-doc.org/', None),
 #    }
+
+def setup(app):
+    app.add_css_file("custom.css")
