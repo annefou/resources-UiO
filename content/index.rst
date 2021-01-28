@@ -108,10 +108,11 @@ Except if stated otherwise you will not be able to access your UiO data (UiO hom
      * NIRD project managers need to request access to this service
      * Require "advanced" knowledge to customize services for your needs.
 
-11. Non-interactive batch HPC computing on Sigma2 (ssh + sbatch)
+11. `Non-interactive batch HPC computing on Sigma2 <https://www.sigma2.no/high-performance-computing>`_ (ssh + sbatch)
      * Largest resources, bulk computing
      * Need to script your computation
      * When you have the largest computational needs
+     * `Overview of Sigma2 HPCs and Online documentation <https://documentation.sigma2.no/hpc_machines/hardware_overview.html>`_
      * Need to submit an `application for computing time <https://www.sigma2.no/high-performance-computing>`_ (evaluated and granted under conditions by a resource allocation committee; twice a year)
      
 
