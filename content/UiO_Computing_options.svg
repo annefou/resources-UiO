@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -26,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-27.142857"
-     inkscape:cy="560"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="610.00636"
+     inkscape:cy="479.1878"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -110,120 +111,1304 @@
          id="ellipse2363" />
     </g>
     <g
-       transform="matrix(0.26458333,0,0,0.26458333,65.184875,120.2363)"
-       id="g2399">
+       style="fill:#b3b3b3;stroke-width:0.50857002"
+       transform="matrix(0.38060312,0,0,0.39055146,48.337804,111.61997)"
+       id="g3189">
+      <switch
+         style="fill:#b3b3b3;stroke-width:0.50857002"
+         id="switch3187">
+        <foreignObject
+           width="100%"
+           height="100%"
+           overflow="visible"
+           pointer-events="none"
+           text-align="left"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             display="flex"
+             style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:249px;padding-top:61px;width:1px">
+            <xhtml:div
+               font-size="0"
+               text-align="center"
+               style="box-sizing:border-box">
+              <xhtml:div
+                 color="#000000"
+                 display="inline-block"
+                 font-family="Helvetica"
+                 font-size="12px"
+                 pointer-events="all"
+                 style="line-height:1.2;white-space:nowrap">
+                <xhtml:b>
+                  <xhtml:font
+                     font-size="18px">Internet</xhtml:font>
+                </xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#b3b3b3;stroke-width:0.25863999"
+           x="249"
+           y="65"
+           font-size="12px"
+           id="text3185">
+          <tspan
+             style="font-weight:bold"
+             font-weight="bold"
+             id="tspan3183">Internet</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       style="display:inline"
+       id="g3002"
+       transform="matrix(0.19355714,0,0,0.19861639,52.679087,137.28411)">
+      <ellipse
+         id="ellipse6"
+         pointer-events="all"
+         ry="116.50574"
+         rx="175.39656"
+         cy="235.69746"
+         cx="311.92816"
+         style="fill:#e9e9e9;fill-opacity:1;stroke:none;stroke-width:2" />
+      <circle
+         r="83.95977"
+         id="ellipse34"
+         pointer-events="all"
+         cy="234.98485"
+         cx="390.57184"
+         style="fill:#ffffff;stroke:none;stroke-width:2" />
       <g
-         transform="matrix(0.73155,0,0,0.75068,-39.096,33.121)"
-         id="g2379">
-        <ellipse
-           style="fill:#e9e9e9"
-           cx="311.92999"
-           cy="235.7"
-           rx="175.39999"
-           ry="116.51"
-           pointer-events="all"
-           id="ellipse2367" />
+         id="g1345"
+         transform="translate(-22.043125,-3.8829764)">
+        <rect
+           ry="9.9367819"
+           y="242.68967"
+           x="191.43677"
+           height="68.01725"
+           width="78.913803"
+           id="rect1204"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square"
+           rx="9.9367819" />
+        <g
+           transform="translate(79.494242,18.827594)"
+           id="g1212" />
+      </g>
+      <g
+         id="g1246"
+         transform="translate(9.8591753,-23.756536)">
         <circle
-           style="fill:#ffffff"
-           cx="390.57001"
-           cy="234.98"
-           r="83.959999"
+           style="fill:#ffffff;stroke:none;stroke-width:2"
+           cx="206.35057"
+           cy="204.95976"
            pointer-events="all"
-           id="circle2369" />
+           id="ellipse32"
+           r="34.5" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.18283606px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19607045"
+       x="102.55283"
+       y="165.05539"
+       id="text352"
+       transform="scale(0.98718164,1.0129848)"><tspan
+         sodipodi:role="line"
+         id="tspan350"
+         x="102.55283"
+         y="165.05539"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.39855456px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#999999;stroke-width:0.19607045">Uio Network</tspan></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.19355714,0,0,0.19861639,23.516975,139.0751)"
+       id="g1311">
+      <path
+         inkscape:connector-curvature="0"
+         id="path182"
+         pointer-events="all"
+         stroke-miterlimit="10"
+         d="m 414.35059,264.94605 v -20.46683 c 0,-2.82914 9.57458,-5.12479 21.37931,-5.12479 11.80473,0 21.37931,2.29565 21.37931,5.12479 v 20.46683 c 0,2.82915 -9.57458,5.12479 -21.37931,5.12479 -11.80473,0 -21.37931,-2.29564 -21.37931,-5.12479 z"
+         style="fill:#bdbdbd;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:10;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path184"
+         pointer-events="all"
+         stroke-miterlimit="10"
+         d="m 414.35059,244.47922 c 0,2.82915 9.57458,5.10863 21.37931,5.10863 11.80473,0 21.37931,-2.27948 21.37931,-5.10863"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:10;stroke-dasharray:none" />
+      <g
+         id="g192"
+         transform="translate(-17.235632,18.850575)">
+        <switch
+           id="switch190">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="100%"
+             width="100%"
+             pointer-events="none"
+             style="overflow: visible; text-align: left;">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 239px; margin-left: 453px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b
+                       style="font-size: 7px">/home/<xhtml:br />
+</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text188"
+             font-size="12px"
+             y="243"
+             x="453">/home/</text>
+        </switch>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1413"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 100.70909,190.575 2.98954,0.0364"
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#426ebb;stroke-width:0.15546294;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1415"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 126.90772,175.80208 c 6.95661,0 5.92911,-0.36969 5.92911,3.99405"
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#a75656;stroke-width:0.11896992;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;stroke:#a75656;stroke-width:0.25489157;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       d="m 100.70622,192.52345 c 3.84667,-0.10387 3.70388,-0.0596 3.60265,4.19922"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1417" />
+    <g
+       style="display:inline"
+       transform="matrix(0.19355714,0,0,0.19861639,49.330156,138.97122)"
+       id="g1355">
+      <path
+         inkscape:connector-curvature="0"
+         id="path148"
+         pointer-events="all"
+         stroke-miterlimit="10"
+         d="m 274.10057,327.83732 v -30.81647 c 0,-4.2669 11.58,-7.71109 25.88,-7.71109 14.29,0 25.87,3.44419 25.87,7.71109 v 30.81647 c 0,4.25296 -11.58,7.69715 -25.87,7.69715 -14.3,0 -25.88,-3.44419 -25.88,-7.69715 z"
+         style="fill:#bdbdbd;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:10;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path150"
+         pointer-events="all"
+         stroke-miterlimit="10"
+         d="m 274.28547,295.9492 c 0,3.05 11.3951,4.41057 25.6951,4.41057 14.29,0 25.6851,-1.54548 25.6851,-4.59548"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:10;stroke-dasharray:none" />
+      <g
+         id="g158"
+         transform="translate(-26.649425,17.804598)">
+        <switch
+           id="switch156">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="100%"
+             width="100%"
+             pointer-events="none"
+             style="overflow: visible; text-align: left;">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 304px; margin-left: 326px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b>Storage</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text154"
+             font-size="12px"
+             y="308"
+             x="326">Storage</text>
+        </switch>
+      </g>
+      <g
+         id="g180"
+         transform="translate(-26.649425,12.574713)">
+        <switch
+           id="switch178">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="100%"
+             width="100%"
+             pointer-events="none"
+             style="overflow: visible; text-align: left;">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 296px; margin-left: 327px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b>Aalto ITs</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text176"
+             font-size="12px"
+             y="300"
+             x="327">ASTRA</text>
+        </switch>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.15806154,0,0,0.12922984,77.744714,148.60335)"
+       id="g1318">
+      <path
+         inkscape:connector-curvature="0"
+         id="path74"
+         pointer-events="all"
+         stroke-miterlimit="10"
+         d="m 337.02873,289.97222 v -39.19157 c 0,-5.40844 13.43,-9.7979 30,-9.7979 16.57,0 30,4.38946 30,9.7979 v 39.19157 c 0,5.40843 -13.43,9.79789 -30,9.79789 -16.57,0 -30,-4.38946 -30,-9.79789 z"
+         style="fill:#bdbdbd;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:10;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path76"
+         pointer-events="all"
+         stroke-miterlimit="10"
+         d="m 337.02873,250.78065 c 0,5.40843 13.43,9.79789 30,9.79789 16.57,0 30,-4.38946 30,-9.79789"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:10;stroke-dasharray:none" />
+      <g
+         id="g138"
+         transform="translate(-30.310344,-2.068965)">
+        <switch
+           id="switch136">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="100%"
+             width="100%"
+             pointer-events="none"
+             style="overflow: visible; text-align: left;">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 277px; margin-left: 401px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b>/scratch/<xhtml:br />
+
+
+
+
+
+
+
+
+/work/<xhtml:br />
+</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+             id="text134"
+             font-size="12px"
+             y="280"
+             x="401">/fr-home/...</text>
+        </switch>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1415-6"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 126.72562,191.21825 c 6.95593,0 5.92853,0.37719 5.92853,-4.07515"
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#a75656;stroke-width:0.12016571;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;stroke:#426ebb;stroke-width:0.15396671;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="csc"
+       d="m 99.052994,176.62242 c 2.612546,0 2.349016,-0.16509 2.349016,7.58213 0,5.4488 0.43161,4.78072 4.40921,4.77478"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path168-85" />
+    <g
+       style="display:inline"
+       id="g84"
+       transform="matrix(0.19355714,0,0,0.19861639,72.062354,138.11984)">
+      <switch
+         id="switch82"
+         transform="translate(-1.5689655,-1.045977)">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 170px; margin-left: 328px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:span
+                   style="font-size: 11px">
+                  <xhtml:b>triton.aalto.fi</xhtml:b>
+                </xhtml:span>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           id="text80"
+           font-size="12px"
+           y="297.94827"
+           x="299.75861">
+          <tspan
+             style="font-size:10.66666698px"
+             id="tspan4204">bioint01.hpc.uio.no</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.19355714,0,0,0.19861639,61.658339,143.30898)"
+       id="g3031">
+      <g
+         transform="matrix(0.52857374,0,0,0.52857374,302.71258,153.95286)"
+         id="g1829">
         <g
-           transform="translate(-22.043,-3.883)"
-           id="g2373">
-          <rect
-             style="fill:#ffffff"
-             x="191.44"
-             y="242.69"
-             width="78.914001"
-             height="68.016998"
-             rx="9.9368"
-             ry="9.9368"
-             id="rect2371" />
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round"
+           id="g1817">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             id="path1811" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             id="path1813" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             id="path1815" />
         </g>
+        <path
+           style="fill:#898b8e"
+           inkscape:connector-curvature="0"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           id="path1819" />
+        <path
+           style="fill:#bbbdbf"
+           inkscape:connector-curvature="0"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           id="path1821" />
+        <path
+           style="fill:#b3b5b7"
+           inkscape:connector-curvature="0"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           id="path1823" />
+        <path
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           inkscape:connector-curvature="0"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           id="path1825" />
+        <path
+           style="fill:#fefefe"
+           inkscape:connector-curvature="0"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           id="path1827" />
+      </g>
+      <g
+         transform="matrix(0.37795276,0,0,0.37795276,36.167097,-7.4696987)"
+         id="g4740"
+         inkscape:label="Layer 1">
         <g
-           transform="translate(9.8592,-23.757)"
-           id="g2377">
+           id="g4738"
+           transform="matrix(0.72477216,-0.44386542,0,0.72477216,731.55402,252.13985)">
           <circle
-             style="fill:#ffffff"
-             cx="206.35001"
-             cy="204.96001"
-             r="34.5"
-             pointer-events="all"
-             id="circle2375" />
+             r="22.624281"
+             style="opacity:1;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00629566;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             id="circle4730"
+             cx="59.461693"
+             cy="380.0636" />
+          <circle
+             r="17.77622"
+             cy="380.0636"
+             cx="59.461693"
+             id="circle4732"
+             style="opacity:1;fill:#0046aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00494659;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+          <rect
+             y="289.37903"
+             x="-228.71979"
+             height="42.824535"
+             width="4.04005"
+             id="rect4734"
+             style="opacity:1;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00257151;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             transform="rotate(-45)" />
+          <rect
+             transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+             style="opacity:1;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00257151;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             id="rect4736"
+             width="4.04005"
+             height="42.824535"
+             x="-312.81131"
+             y="205.28751" />
         </g>
       </g>
-      <text
-         transform="scale(0.98718,1.013)"
-         x="146.30992"
-         y="144.30946"
-         font-size="15.809px"
-         letter-spacing="0px"
-         word-spacing="0px"
-         style="font-size:15.80900002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.74105"
-         xml:space="preserve"
-         id="text2383"><tspan
-           style="font-weight:bold;font-size:12.84500027px;font-family:Helvetica;fill:#999999;stroke-width:0.74105"
-           x="146.30992"
-           y="144.30946"
-           font-size="12.845px"
-           font-weight="bold"
-           id="tspan2381">Uio Network</tspan></text>
-      <ellipse
-         style="fill:#cccccc;stroke-width:0.63023001"
-         cx="223.88"
-         cy="361.76001"
-         rx="68.866997"
-         ry="45.147999"
-         id="ellipse2385" />
-      <text
-         transform="scale(0.98718,1.013)"
-         x="205.1656"
-         y="328.69928"
-         font-size="15.809px"
-         letter-spacing="0px"
-         word-spacing="0px"
-         style="font-size:15.80900002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.74105"
-         xml:space="preserve"
-         id="text2389"><tspan
-           style="font-weight:bold;font-size:12.84500027px;font-family:Helvetica;fill:#4d4d4d;stroke-width:0.74105"
-           x="205.1656"
-           y="328.69928"
-           font-size="12.845px"
-           font-weight="bold"
-           id="tspan2387">NREC</tspan></text>
-      <ellipse
-         style="fill:#cccccc;stroke-width:0.63023001"
-         cx="381.51001"
-         cy="342.51999"
-         rx="68.866997"
-         ry="45.147999"
-         id="ellipse2391" />
-      <text
-         transform="scale(0.98718,1.013)"
-         x="345.62851"
-         y="315.60056"
-         font-size="15.809px"
-         letter-spacing="0px"
-         word-spacing="0px"
-         style="font-size:15.80900002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.74105"
-         xml:space="preserve"
-         id="text2395"><tspan
-           style="font-weight:bold;font-size:12.84500027px;font-family:Helvetica;fill:#4d4d4d;stroke-width:0.74105"
-           x="345.62851"
-           y="315.60056"
-           font-size="12.845px"
-           font-weight="bold"
-           id="tspan2393">Google Cloud</tspan></text>
-      <ellipse
-         style="fill:#cccccc;stroke-width:1.15550005"
-         cx="434.32999"
-         cy="178.73"
-         rx="103.58"
-         ry="100.9"
-         id="ellipse2397" />
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.19355714,0,0,0.19861639,64.263038,136.54461)"
+       id="g1252">
+      <path
+         inkscape:connector-curvature="0"
+         id="path218"
+         pointer-events="all"
+         stroke-miterlimit="10"
+         d="m 232.73563,108.67816 c 0,-3.39632 2.74161,-6.13793 6.13793,-6.13793 h 18.41379 c 3.39632,0 6.13793,2.74161 6.13793,6.13793 v 18.4138 c 0,3.39632 -2.74161,6.13793 -6.13793,6.13793 h -18.41379 c -3.39632,0 -6.13793,-2.74161 -6.13793,-6.13793 z"
+         style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:10" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path220"
+         pointer-events="all"
+         d="m 235.1908,112.81104 h 1.39126 l 2.76207,7.83609 2.76207,-7.83609 h 1.37081 l -3.37586,9.82069 h -1.53449 z"
+         style="fill:#ffffff;stroke:none;stroke-width:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path222"
+         pointer-events="all"
+         d="m 244.3977,122.63173 v -9.82069 h 3.98965 c 1.55494,0 2.82345,1.41172 2.82345,3.1508 0,1.73908 -1.26851,3.15081 -2.82345,3.15081 h -2.59839 v 3.51908 z m 1.39126,-4.74667 h 2.59839 c 0.81839,0 1.47311,-0.81839 1.47311,-1.84138 0,-1.02299 -0.65472,-1.84138 -1.47311,-1.84138 h -2.59839 z"
+         style="fill:#ffffff;stroke:none;stroke-width:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path224"
+         pointer-events="all"
+         d="m 252.6839,122.63173 v -9.82069 h 1.22759 l 5.38092,7.67241 v -7.67241 h 1.3708 v 9.82069 h -1.53448 l -5.07402,-7.20184 v 7.20184 z"
+         style="fill:#ffffff;stroke:none;stroke-width:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g1741"
+       transform="matrix(0.10230922,0,0,0.10498341,82.456824,193.29844)">
+      <g
+         id="g1712"
+         style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round">
+        <path
+           id="path1706"
+           d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path1708"
+           d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path1710"
+           d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         id="path1714"
+         d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#898b8e" />
+      <path
+         id="path1716"
+         d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+         inkscape:connector-curvature="0"
+         style="fill:#bbbdbf" />
+      <path
+         id="path1718"
+         d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#b3b5b7" />
+      <path
+         id="path1720"
+         d="m 2.2,25.5 22.3,13.4 v 49"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path1722"
+         d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+         inkscape:connector-curvature="0"
+         style="fill:#fefefe" />
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.19355714,0,0,0.19861639,60.941983,155.12519)"
+       id="g3031-8">
+      <g
+         transform="matrix(0.52857374,0,0,0.52857374,302.71258,153.95286)"
+         id="g1829-3">
+        <g
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round"
+           id="g1817-1">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             id="path1811-7" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             id="path1813-8" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             id="path1815-3" />
+        </g>
+        <path
+           style="fill:#898b8e"
+           inkscape:connector-curvature="0"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           id="path1819-1" />
+        <path
+           style="fill:#bbbdbf"
+           inkscape:connector-curvature="0"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           id="path1821-3" />
+        <path
+           style="fill:#b3b5b7"
+           inkscape:connector-curvature="0"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           id="path1823-4" />
+        <path
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           inkscape:connector-curvature="0"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           id="path1825-9" />
+        <path
+           style="fill:#fefefe"
+           inkscape:connector-curvature="0"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           id="path1827-8" />
+      </g>
+      <g
+         transform="matrix(0.37795276,0,0,0.37795276,36.167097,-7.4696987)"
+         id="g4740-4"
+         inkscape:label="Layer 1">
+        <g
+           id="g4738-2"
+           transform="matrix(0.72477216,-0.44386542,0,0.72477216,731.55402,252.13985)">
+          <circle
+             r="22.624281"
+             style="opacity:1;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00629566;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             id="circle4730-5"
+             cx="59.461693"
+             cy="380.0636" />
+          <circle
+             r="17.77622"
+             cy="380.0636"
+             cx="59.461693"
+             id="circle4732-7"
+             style="opacity:1;fill:#0046aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00494659;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+          <rect
+             y="289.37903"
+             x="-228.71979"
+             height="42.824535"
+             width="4.04005"
+             id="rect4734-1"
+             style="opacity:1;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00257151;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             transform="rotate(-45)" />
+          <rect
+             transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+             style="opacity:1;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00257151;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             id="rect4736-9"
+             width="4.04005"
+             height="42.824535"
+             x="-312.81131"
+             y="205.28751" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g42"
+       transform="matrix(0.19355714,0,0,0.19861639,41.806192,134.77715)">
+      <switch
+         id="switch40">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 261px; margin-left: 265px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:b
+                   style="font-size: 11px">
+                  <xhtml:font
+                     style="font-size: 11px">Department<xhtml:br />
+
+
+
+
+
+
+
+
+Network</xhtml:font>
+                </xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           id="text38"
+           font-size="12px"
+           y="265"
+           x="265">
+          <tspan
+             sodipodi:role="line"
+             id="tspan1200"
+             x="265"
+             y="265">UiO</tspan>
+          <tspan
+             sodipodi:role="line"
+             id="tspan1202"
+             x="265"
+             y="280">workstations</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.15343348,0,0,0.15744397,22.207451,175.83579)"
+       id="g2033">
+      <g
+         transform="matrix(0.19710215,0,0,0.19710215,459.02867,118.71683)"
+         id="g1971">
+        <g
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round"
+           id="g1959">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             id="path1953" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             id="path1955" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             id="path1957" />
+        </g>
+        <path
+           style="fill:#898b8e"
+           inkscape:connector-curvature="0"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           id="path1961" />
+        <path
+           style="fill:#bbbdbf"
+           inkscape:connector-curvature="0"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           id="path1963" />
+        <path
+           style="fill:#b3b5b7"
+           inkscape:connector-curvature="0"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           id="path1965" />
+        <path
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           inkscape:connector-curvature="0"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           id="path1967" />
+        <path
+           style="fill:#fefefe"
+           inkscape:connector-curvature="0"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           id="path1969" />
+      </g>
+      <g
+         id="g1991"
+         transform="matrix(0.19710215,0,0,0.19710215,445.03442,101.0565)">
+        <g
+           id="g1979"
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round">
+          <path
+             id="path1973"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1975"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1977"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           id="path1981"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#898b8e" />
+        <path
+           id="path1983"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           inkscape:connector-curvature="0"
+           style="fill:#bbbdbf" />
+        <path
+           id="path1985"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#b3b5b7" />
+        <path
+           id="path1987"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path1989"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           inkscape:connector-curvature="0"
+           style="fill:#fefefe" />
+      </g>
+      <g
+         id="g2011"
+         transform="matrix(0.19710215,0,0,0.19710215,485.02867,118.71683)">
+        <g
+           id="g1999"
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round">
+          <path
+             id="path1993"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1995"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1997"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           id="path2001"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#898b8e" />
+        <path
+           id="path2003"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           inkscape:connector-curvature="0"
+           style="fill:#bbbdbf" />
+        <path
+           id="path2005"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#b3b5b7" />
+        <path
+           id="path2007"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path2009"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           inkscape:connector-curvature="0"
+           style="fill:#fefefe" />
+      </g>
+      <g
+         transform="matrix(0.19710215,0,0,0.19710215,471.03442,101.0565)"
+         id="g2031">
+        <g
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round"
+           id="g2019">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             id="path2013" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             id="path2015" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             id="path2017" />
+        </g>
+        <path
+           style="fill:#898b8e"
+           inkscape:connector-curvature="0"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           id="path2021" />
+        <path
+           style="fill:#bbbdbf"
+           inkscape:connector-curvature="0"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           id="path2023" />
+        <path
+           style="fill:#b3b5b7"
+           inkscape:connector-curvature="0"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           id="path2025" />
+        <path
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           inkscape:connector-curvature="0"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           id="path2027" />
+        <path
+           style="fill:#fefefe"
+           inkscape:connector-curvature="0"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           id="path2029" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g50"
+       transform="matrix(0.19355714,0,0,0.19861639,49.460738,133.78578)">
+      <switch
+         id="switch48">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 182px; margin-left: 232px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:b
+                   style="font-size: 11px">
+                  <xhtml:font
+                     style="font-size: 11px">VDI<xhtml:br />
+
+
+
+
+
+
+
+
+Network</xhtml:font>
+                </xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           id="text46"
+           font-size="12px"
+           y="182.33908"
+           x="232.52299">VDI</text>
+      </switch>
+    </g>
+    <g
+       style="display:inline"
+       id="g1951"
+       transform="matrix(0.15343348,0,0,0.15744397,22.555772,155.39827)">
+      <g
+         id="g1849"
+         transform="matrix(0.19710215,0,0,0.19710215,459.02867,118.71683)">
+        <g
+           id="g1837"
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round">
+          <path
+             id="path1831"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1833"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1835"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           id="path1839"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#898b8e" />
+        <path
+           id="path1841"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           inkscape:connector-curvature="0"
+           style="fill:#bbbdbf" />
+        <path
+           id="path1843"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#b3b5b7" />
+        <path
+           id="path1845"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path1847"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           inkscape:connector-curvature="0"
+           style="fill:#fefefe" />
+      </g>
+      <g
+         transform="matrix(0.19710215,0,0,0.19710215,445.03442,101.0565)"
+         id="g1869">
+        <g
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round"
+           id="g1857">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             id="path1851" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             id="path1853" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             id="path1855" />
+        </g>
+        <path
+           style="fill:#898b8e"
+           inkscape:connector-curvature="0"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           id="path1859" />
+        <path
+           style="fill:#bbbdbf"
+           inkscape:connector-curvature="0"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           id="path1861" />
+        <path
+           style="fill:#b3b5b7"
+           inkscape:connector-curvature="0"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           id="path1863" />
+        <path
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           inkscape:connector-curvature="0"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           id="path1865" />
+        <path
+           style="fill:#fefefe"
+           inkscape:connector-curvature="0"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           id="path1867" />
+      </g>
+      <g
+         transform="matrix(0.19710215,0,0,0.19710215,485.02867,118.71683)"
+         id="g1889">
+        <g
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round"
+           id="g1877">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             id="path1871" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             id="path1873" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             id="path1875" />
+        </g>
+        <path
+           style="fill:#898b8e"
+           inkscape:connector-curvature="0"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           id="path1879" />
+        <path
+           style="fill:#bbbdbf"
+           inkscape:connector-curvature="0"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           id="path1881" />
+        <path
+           style="fill:#b3b5b7"
+           inkscape:connector-curvature="0"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           id="path1883" />
+        <path
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+           inkscape:connector-curvature="0"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           id="path1885" />
+        <path
+           style="fill:#fefefe"
+           inkscape:connector-curvature="0"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           id="path1887" />
+      </g>
+      <g
+         id="g1909"
+         transform="matrix(0.19710215,0,0,0.19710215,471.03442,101.0565)">
+        <g
+           id="g1897"
+           style="fill:none;stroke:#626366;stroke-width:3;stroke-linejoin:round">
+          <path
+             id="path1891"
+             d="m 24.3,39.242 45.2,-24 v 48.9 l -45.1,24 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1893"
+             d="m 1.5,25.442 45.2,-23.9 22.8,13.7 -45.2,24 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1895"
+             d="m 24.3,39.242 0.1,48.9 -22.9,-13.7 v -49 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           id="path1899"
+           d="m 24.3,39.2 45.2,-24 v 49 L 24.4,88.1 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#898b8e" />
+        <path
+           id="path1901"
+           d="m 1.5,25.5 45.2,-24 22.8,13.7 -45.2,24 z"
+           inkscape:connector-curvature="0"
+           style="fill:#bbbdbf" />
+        <path
+           id="path1903"
+           d="M 24.3,39.2 24.4,88.1 1.5,74.4 V 25.5 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#b3b5b7" />
+        <path
+           id="path1905"
+           d="m 2.2,25.5 22.3,13.4 v 49"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#dfe0df;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path1907"
+           d="M 21.3,49.3 4,38.9 v -6.5 l 17.3,10.4 z m 0,6.2 L 4,45.1 v -3.7 l 17.3,10.4 z m 0,19.2 L 4,64.3 V 62.6 L 21.3,73 Z m 0,3.8 L 4,68.1 v -1.7 l 17.3,10.4 z m 0,4 L 4,72.1 v -1.7 l 17.3,10.4 z"
+           inkscape:connector-curvature="0"
+           style="fill:#fefefe" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.19355714,0,0,0.19861639,46.401676,139.91954)"
+       id="g72">
+      <switch
+         transform="translate(12.028736,-18.304598)"
+         id="switch70">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 178px; margin-left: 407px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:b
+                   style="font-size: 11px">
+                  <xhtml:font
+                     style="font-size: 11px">Triton<xhtml:br />
+
+
+
+
+
+
+
+
+Network</xhtml:font>
+                </xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:18.22159958px;font-family:Helvetica;text-anchor:middle;fill:#c1c1c1;fill-opacity:1;stroke-width:1"
+           x="412.37418"
+           y="177.57889"
+           font-size="18.2216px"
+           id="text68">
+          <tspan
+             id="tspan1292"
+             style="font-weight:bold;fill:#c1c1c1;fill-opacity:1;stroke-width:1">Freebee</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.19355714,0,0,0.19861639,50.851264,139.29173)"
+       id="g1385">
+      <path
+         style="fill:#505050;stroke:none"
+         inkscape:connector-curvature="0"
+         id="path54"
+         pointer-events="all"
+         d="m 198.74862,116.33873 h 1.39 v -1.4 h -1.39 z m 2.79,0 h 1.39 v -1.4 h -1.39 z m -24.23,22.5 c -0.93,0 -1.8,-0.83 -1.8,-1.85 v -21.59 c 0,-1.17 1.02,-1.87 1.79,-1.87 h 27.98 c 0.87,0 1.83,0.73 1.83,1.86 v 10.8 h -1.39 v -7.97 h -28.82 v 18.77 c 0,0.3 0.26,0.45 0.44,0.45 h 17.22 v 1.4 z m 4.24,-3.75 v -3.75 h 2.33 v -3.75 h 6.97 v -2.81 h -2.79 v -4.22 h 6.5 v 4.22 h -2.78 v 2.81 h 3.16 c -0.15,0.28 -0.28,0.58 -0.33,0.93 h -2.83 v 2.82 h 2.32 v 3.75 h -5.58 v -3.75 h 2.33 v -2.82 h -6.05 v 2.82 h 2.33 v 3.75 z m 22.77,-18.75 h 1.4 v -1.4 h -1.4 z m -7.01,27.19 c -0.64,0 -1.35,-0.51 -1.35,-1.43 v -13.14 c 0,-0.72 0.59,-1.37 1.37,-1.37 h 13.05 c 0.62,0 1.38,0.46 1.38,1.45 v 13.1 c 0,0.9 -0.76,1.39 -1.34,1.39 z m 6.1,-3.31 c -0.87,-0.07 -1.7,-0.42 -2.34,-0.92 -0.2,-0.25 -0.42,-0.47 -0.66,-0.6 -0.08,-0.09 -0.16,-0.2 -0.25,-0.31 -0.12,-0.34 -0.29,-0.73 -0.32,-0.98 -0.05,-0.23 -0.01,-0.38 0.19,-0.5 0.26,-0.14 0.61,-0.25 0.95,-0.37 -0.08,-0.15 -0.31,-0.36 -0.51,-0.55 -0.29,-0.28 -0.57,-0.55 -0.78,-0.8 -0.16,-0.18 -0.29,-0.34 -0.37,-0.7 0.45,-1.89 1.75,-2.87 2.83,-3.3 0.25,0.14 0.4,0.4 0.46,0.63 0.04,0.17 0.08,0.19 0.3,0.18 0.11,-0.01 0.48,-0.44 0.68,-0.52 0.22,-0.13 0.46,-0.12 0.62,0 0.26,0.16 0.29,0.39 0.32,0.62 0.02,0.24 0,0.54 -0.12,0.76 -0.05,0.08 -0.07,0.08 -0.17,0.08 -0.28,0.02 -0.5,0.05 -0.75,0.34 -0.15,0.19 -0.25,0.27 -0.56,0.26 -0.09,0.01 -0.16,0.08 -0.21,0.13 -0.21,0.24 -0.38,0.6 -0.47,0.98 -0.03,0.11 -0.02,0.24 0.04,0.39 0.08,0.23 0.26,0.6 0.17,0.61 -0.26,-0.1 -0.48,-0.24 -0.59,-0.38 -0.11,-0.12 -0.2,-0.26 -0.19,-0.45 -0.16,-0.16 -0.35,-0.23 -0.58,-0.18 -0.2,0.03 -0.33,0.15 -0.29,0.44 0.08,0.31 0.38,0.65 0.66,0.92 0.23,0.22 0.47,0.43 0.72,0.64 0.06,0 0.11,0.04 0.22,0.05 0.27,-0.01 0.69,-0.03 0.93,-0.05 0.24,0 0.5,-0.01 0.67,0.05 0.13,0.04 0.15,0.13 0.13,0.18 0.43,0.45 0.25,1.17 -0.09,1.64 -0.17,0.25 -0.26,0.53 -0.33,0.83 -0.08,0.36 -0.15,0.68 -0.31,0.88 z m 4.33,-2.09 c -0.3,-0.03 -0.86,-1.01 -0.91,-1.63 -0.31,-0.06 -1.07,-0.3 -1.52,-0.68 -0.22,-0.16 -0.24,-0.41 -0.16,-0.76 0.12,-0.44 0.51,-0.89 1.05,-1.3 0.24,-0.19 0.66,-0.48 0.7,-0.56 0.06,-0.05 0.01,-0.08 -0.12,-0.08 -0.2,0.01 -0.41,0.01 -0.56,-0.01 -0.45,-0.06 -0.61,-0.25 -0.48,-0.6 0.13,-0.38 0.43,-0.72 0.68,-0.86 0.8,0.54 1.79,1.58 2.05,3.29 0.15,1.32 -0.19,2.36 -0.73,3.19 z m -3.9,2.59 c 2.81,0 5.13,-2.32 5.13,-5.15 0,-3.02 -2.44,-5.16 -5.05,-5.16 -2.84,0 -5.17,2.25 -5.17,5.13 0,3.04 2.41,5.18 5.09,5.18 z" />
+      <g
+         id="g208"
+         transform="translate(47.740222,-81.534484)">
+        <switch
+           id="switch206">
+          <foreignObject
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+             height="100%"
+             width="100%"
+             pointer-events="none"
+             style="overflow: visible; text-align: left;">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 183px; margin-left: 148px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b>https://vdi.aalto.fi</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             id="text204"
+             font-size="12px"
+             y="187"
+             x="148"
+             style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">https://view.uio.no</text>
+        </switch>
+      </g>
+      <g
+         transform="translate(45.648268,-77.994254)"
+         id="g965">
+        <switch
+           id="switch963">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 183px; margin-left: 148px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                  <xhtml:span
+                     style="font-size: 11px">
+                    <xhtml:b>https://vdi.aalto.fi</xhtml:b>
+                  </xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+        </switch>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g952"
+       transform="matrix(0.19355714,0,0,0.19861639,-4.8197727,172.53601)">
+      <switch
+         id="switch950">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 210px; margin-left: 426px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:span
+                   style="font-size: 11px">
+                  <xhtml:b>CPUs/GPUs</xhtml:b>
+                </xhtml:span>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           id="text948"
+           font-size="12px"
+           y="162.74713"
+           x="464.17816"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">login.uio.no</text>
+      </switch>
+    </g>
+    <g
+       style="display:inline"
+       id="g952-7-2"
+       transform="matrix(0.19355714,0,0,0.19861639,31.569645,152.24822)">
+      <switch
+         id="switch950-1-3">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="100%"
+           width="100%"
+           pointer-events="none"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 210px; margin-left: 426px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:span
+                   style="font-size: 11px">
+                  <xhtml:b>CPUs/GPUs</xhtml:b>
+                </xhtml:span>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           id="text948-3-0"
+           font-size="12px"
+           y="162.74713"
+           x="464.17816"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">
+          <tspan
+             style="font-size:10.66666698px"
+             id="tspan4202">freebio.hpc.uio.no</tspan>
+        </text>
+      </switch>
     </g>
   </g>
 </svg>
