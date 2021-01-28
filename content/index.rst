@@ -22,7 +22,7 @@ What's your style?
 ------------------
 
 To get started, you can use Jupyter (4) and VDI (3) which are good for developing and prototyping. 
-Then to scale up, you can use the Sigma2 options: 6, 7, 8 which have access to the same data.  If you need the most power or flexibility, use `the services from the Norwegian e-infrastructure for Research & Education (Sigma2) <https://www.sigma2.no/>`_ for your data storage and computation (`Apply for Sigma2 resources <https://www.sigma2.no/apply-e-infrastructure-resources>`_ and `account required <https://www.metacenter.no/user/application/form/notur/>`_ for 4-8).
+Then to scale up, you can use the Sigma2 options: 6, 8, 9 which have access to the same data.  If you need the most power or flexibility, use `the services from the Norwegian e-infrastructure for Research & Education (Sigma2) <https://www.sigma2.no/>`_ for your data storage and computation (`Apply for Sigma2 resources <https://www.sigma2.no/apply-e-infrastructure-resources>`_ and `account required <https://www.metacenter.no/user/application/form/notur/>`_ for 4-8).
  
 If you need simple applications with a graphical interface, try 3 (VDI).
 
@@ -31,12 +31,17 @@ If you use your own laptop/desktop (1, 2), then it's good for getting started bu
 Summary list for remote data analysis workflows
 ------------------------------------------------
 
-   * Good for data security: 3, 4, 5, 6, 8
-   * Good for prototyping, working on the go, doing tests, interactive work: 1, 2, 3, 4, 5
-   * Shares Triton data (e.g. scratch folders): 3, 4, 5, 6, 8
-   * Easy to scale up, shares software, data, etc: 4, 5, 6, 8
-   * Largest resources available 8 (medium: 6)
-   * GPUs resources available 7 (and to some extent 8)
+   * Good for data security: 3, 5, 6, 7, 10, 11
+   * Good for prototyping, working on the go, doing tests, interactive work: 1, 2, 3, 4, 5, 6, 8
+   * Shares UiO data (e.g. home folders): 2, 3, 6,
+   * Easy to scale up, shares software, data, etc: 5, 9, 11
+   * Largest resources available 11 (medium: 9, 10)
+   * GPUs resources available 7, 9 (and to some extent 11)
+
+
+.. note::
+
+   If you are dealing with sensitive data, you would need to use dedicated services for `sensitive data <https://www.uio.no/english/services/it/research/sensitive-data/index.html>`_.
 
 
 Except if stated otherwise you will not be able to access your UiO data (UiO home & `astra <https://www.uio.no/english/services/it/research/storage/researchers.html>`_). 
@@ -49,40 +54,65 @@ Except if stated otherwise you will not be able to access your UiO data (UiO hom
      
 2. UiO laptop
      * Same as above, plus same tools available as UiO employer. The list of tools pre-installed on your laptop usually may depends on your institute or department or local group policy (in particular for some paid software).
-     * Same as above.
-     * Same as above.
+     * Usually not allowed to install yourself software/packages
+     * Access to your UiO home area and ASTRA storage
 
 3. Remote virtual machine (https://view.uio.no/)
      * Computing happens on remote. Data access happens on remote, so it is more secure.
      * Computing resources are limited.
+     * Many packages available (often many more than what you can have on your laptop)
      * Excellent for prototyping, working on the go, doing tests, interactive work (e.g. making figures). More secure access to data.
-     * Can access your home area and ASTRA storage
+     * Can access your home area
 
 4. UiO Jupyterhub (https://jupyterhub.uio.no/)
-     * Cloud based - resume work from anywhere.  Includes command line (#6) and batch (#7) easily.  Local data can be copied (a procedure is available if this service is used for teaching) but no access to your UiO data.
-     * Jupyter can `become a mess if you aren't careful <https://scicomp.aalto.fi/scicomp/jupyter-pitfalls.html>`__.  You need to plan to scale up with #7 eventually, once your needs increase.
-     * Excellent for prototyping, working on the go, doing tests, interactive work (e.g. making figures).  Secure access to data. Use if you know you need to switch to batch jobs eventually (7).
+     * Cloud based - resume work from anywhere.  Includes command line via Jupyter Terminal.  Local data can be copied (a procedure is available if this service is used for teaching) but no access to your UiO data.
+     * Jupyter can `become a mess if you aren't careful <https://scicomp.aalto.fi/scicomp/jupyter-pitfalls.html>`__.  You need to plan to scale up with #8 or #9 eventually, once your needs increase.
+     * Excellent for prototyping, working on the go, doing tests, interactive work (e.g. making figures).  
+     * Mostly used for teaching
      
 5. Interactive graphical session on `UiO servers <https://www.uio.no/english/services/it/research/hpc/freebee/>`_ (ssh -X freebio.hpc.uio.no or on request to bioint01.hpc.uio.no)
      * Graphical programs.
      * Lost once your internet connection dies, needs fast internet connection.
-     * If you need specific graphical applications   which are only on Triton.
+     * A general workhorse once you get comfortable with shell - many people work here.
 
 6. Interactive command line session on UiO servers (ssh login.uio.no)
      * Works from anywhere. Few resources and for a short time.
      * Limited time limits, must be used manually.
-     * A general workhorse once you get comfortable with shell - many people work here + #7.
+     * Mostly used to "enter" University network and gain access to other UiO services.
      * Can access your home area and ASTRA storage
 
 7. `GPU / Machine learning resources <https://www.uio.no/tjenester/it/forskning/kompetansehuber/uio-ai-hub-node-project/it-resources/ml-nodes/index.html>`_
      * Works from anywhere. Dedicated to machine learning and deep learning tasks.
      * No time limits
+     * Need to request access (justify your needs)
      * Only if your applications can use GPUs
-     
-8. Non-interactive batch HPC computing on Sigma2 (ssh + sbatch)
+
+8. `Norwegian Research and Education Cloud <https://www.nrec.no/>`_
+     * Fast, standardized servers and storage for the Norwegian higher education sector.
+     * Get access to a self-service, modern and secure cloud infrastructure, available when you need it.
+     * HPC-cloud can be requested too
+     * Small projects available to everyone by default and for larger projects by using `this web form <https://request.nrec.no/>`_.
+     * Basically you are on your own (root user) so this service is recommended to more advanced users
+
+9. `Google Cloud Platform <https://www.uio.no/english/services/it/computer/gcp/index.html>`_
+     * Very similar than NREC (for advanced users)
+     * Gives you access to more computing power (including HPC-cloud), analytics, machine learning products, developer tools and much more.
+     * Very versatile (more options than for NREC for processors, memories, disks including SSDs)
+     * Price depends on the performance, data location, access, etc.
+
+10. `NIRD Service Platform <https://www.sigma2.no/nird-service-platform>`_
+     * On-demand data analytics services, such as AI/ML algorithm, JupyterHub and Jupyter Notebook
+     * Cannot access UiO storage but can access NIRD project areas
+     * Require to submit an `application for data storage <https://www.sigma2.no/data-storage>`_ (evaluated and granted by a resource allocation committee twice a year)
+     * Minimum storage 10TB
+     * NIRD project managers need to request access to this service
+     * Require "advanced" knowledge to customize services for your needs.
+
+11. Non-interactive batch HPC computing on Sigma2 (ssh + sbatch)
      * Largest resources, bulk computing
      * Need to script your computation
-     * When you have the largest computational needs.
+     * When you have the largest computational needs
+     * Need to submit an `application for computing time <https://www.sigma2.no/high-performance-computing>`_ (evaluated and granted under conditions by a resource allocation committee; twice a year)
      
 
 
@@ -120,8 +150,9 @@ This short course will give you an overview of the computing and storage resourc
 See also
 --------
 
-`Intro to Linux and Aalto University Computing <https://scicomp.aalto.fi/training/scip/intro-linux-aalto-computing/#jan-2020-intro-to-linux-and-aalto-computing>`_.
+- `Intro to Linux and Aalto University Computing <https://scicomp.aalto.fi/training/scip/intro-linux-aalto-computing/#jan-2020-intro-to-linux-and-aalto-computing>`_.
 
+- `IT Services for Research <https://www.uio.no/english/services/it/research/>`_.
 
 Credits
 -------
