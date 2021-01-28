@@ -21,7 +21,7 @@ Summary table for remote data analysis workflows
 
 .. list-table::
    :header-rows: 1
-   :class: wy-table-responsive
+   :class: tight-table
 
    * * Workflow
      * Pros
