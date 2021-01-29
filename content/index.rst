@@ -84,8 +84,10 @@ Except if stated otherwise you will not be able to access your UiO data (UiO hom
 7. `GPU / Machine learning resources <https://www.uio.no/tjenester/it/forskning/kompetansehuber/uio-ai-hub-node-project/it-resources/ml-nodes/index.html>`_
      * Works from anywhere. Dedicated to machine learning and deep learning tasks.
      * No time limits
-     * Need to request access (justify your needs)
-     * Only if your applications can use GPUs
+     * Need to request access (send a mail to itf-ai-support@usit.uio.no )
+     * Priority for GPU intensive tasks
+     * Infrastructure support for course in machine learning
+     * `More details <https://www.uio.no/tjenester/it/forskning/kompetansehuber/uio-ai-hub-node-project/it-resources/ml-nodes/index.html>`
 
 8. `Norwegian Research and Education Cloud <https://www.nrec.no/>`_
      * Fast, standardized servers and storage for the Norwegian higher education sector.
