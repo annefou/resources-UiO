@@ -87,7 +87,7 @@ Except if stated otherwise you will not be able to access your UiO data (UiO hom
      * Need to request access (send a mail to itf-ai-support@usit.uio.no )
      * Priority for GPU intensive tasks
      * Infrastructure support for course in machine learning
-     * `More details <https://www.uio.no/tjenester/it/forskning/kompetansehuber/uio-ai-hub-node-project/it-resources/ml-nodes/index.html>`
+     * `More details <https://www.uio.no/tjenester/it/forskning/kompetansehuber/uio-ai-hub-node-project/it-resources/ml-nodes/index.html>`_
 
 8. `Norwegian Research and Education Cloud <https://www.nrec.no/>`_
      * Fast, standardized servers and storage for the Norwegian higher education sector.
